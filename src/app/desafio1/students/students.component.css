@@ -1,0 +1,14 @@
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    background: #868e96;
+}
+.scrollspy-example{
+    height: 500px;
+    margin-top: 0.5rem;
+    overflow: auto;
+}
+.row {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
